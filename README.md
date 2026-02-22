@@ -31,13 +31,29 @@ Reporting: Melde unsichere Seiten direkt über unser Portal auf sgobbovista.de.
 Pull Requests: Füge neue Domains direkt hier auf GitHub hinzu. Bitte beachte dabei unsere Richtlinie: Nur verifizierte Domains einreichen.
 
 ⚖️ Lizenz & Copyright
-Dieses Projekt wird von SgobboVista bereitgestellt.
+Copyright (c) 2026 SgobboVista
 
-Die Nutzung der Daten ist für private und kommerzielle Zwecke kostenfrei erlaubt, sofern eine Namensnennung (Attribution) erfolgt.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "sgovi-banlists"), 
+to deal in the software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the software, provided that the following conditions 
+are met:
 
-Erforderlicher Hinweis:
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the software.
 
-Daten bereitgestellt durch SgobboVista (sgovi-banlists).
+2. Attribution: Any product, service, or dataset derived from this 
+   repository must clearly state "Data provided by SgobboVista (sgovi-banlists)" 
+   with a link to https://github.com/SgobboVista/sgovi-banlists.
+
+3. Special Requests: For use cases where attribution is not possible 
+   or other terms are desired, explicit permission must be obtained 
+   from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 🔍 Über SGOVI
 SGOVI ist mehr als nur eine Liste. Wir betreiben eine unabhängige Suchmaschine, die Privatsphäre und Sicherheit ernst nimmt. Besuche uns auf:
