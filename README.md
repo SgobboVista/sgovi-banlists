@@ -23,12 +23,6 @@ Direktzugriff via CDN (Raw)
 Nutze die GitHub-API oder Raw-URLs für den Live-Abgleich:
 https://raw.githubusercontent.com/SgobboVista/sgovi-banlists/main/malware.txt
 
-Datei,Beschreibung,Schutzfaktor
-malware.txt,Bekannte Quellen für Schadsoftware,🔴 Kritisch
-phishing.txt,Betrügerische Login-Seiten & Scams,🔴 Kritisch
-fake-news.txt,Desinformation & Satire (zur Kennzeichnung),🟡 Warnung
-spam.txt,Domänen mit exzessivem Werbemüll,🔵 Info
-
 🤝 Community & Mitwirkung
 Sicherheit ist eine Gemeinschaftsaufgabe. Du kannst auf zwei Arten helfen:
 
