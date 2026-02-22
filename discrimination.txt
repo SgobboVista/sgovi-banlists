@@ -1,0 +1,3 @@
+# SGOVI Ban-List: discrimination.txt
+# Automatisch generiert am 2026-02-22 00:24:52
+# Eine Domain pro Zeile
