@@ -1,53 +1,50 @@
 ![SGOVI Shield](https://img.shields.io/badge/🛡️_Protected_by-SGOVI-8b5cf6)
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-blue)
 
-🚫 sgovi-banlists
-Gemeinsam für ein sichereres Internet. Dieses Repository enthält kuratierte Listen von Domains, die in verschiedenen Kategorien als problematisch eingestuft wurden – von Malware und Phishing bis hin zu Misinformation und unethischen Inhalten.
+🛡️ SGOVI Banlists
+Empowering a Cleaner and Safer Web
+Das sgovi-banlists Repository ist eine kuratierte Datenbank für Web-Sicherheit und Content-Integrität. Wir sammeln, kategorisieren und verifizieren schädliche oder qualitativ minderwertige Domains, um die digitale Erfahrung für alle sicherer zu machen. Diese Listen sind das Rückgrat der Filtertechnologie hinter sgobbovista.de.
 
-🛡️ Warum machen wir das?
-Das Internet wächst ununterbrochen, aber leider auch die Gefahren und die Flut an minderwertigen oder gefährlichen Inhalten. Mit SGOVI Banlists verfolgen wir zwei Ziele:
+🎯 Unsere Mission
+Das Internet ist ein riesiger Raum, aber nicht jeder Ort darin ist sicher. Wir bekämpfen:
 
-Schutz: Nutzer vor schädlichen Webseiten (Malware, Betrug) bewahren.
+Technische Bedrohungen: Malware, Phishing und Hacking-Versuche.
 
-Qualität: Die Integrität von Suchergebnissen verbessern, indem Spam und Fake-News gefiltert werden.
+Inhaltliche Desinformation: Fake-News und gezielte Misinformation.
 
-Diese Listen speisen unter anderem unsere Suchmaschine sgobbovista.de, um dort eine sicherere und sauberere Suche zu ermöglichen.
+User-Experience Killer: Aggressiver Spam, unethische Werbenetzwerke und Duplikate.
 
-🚀 Mitverwenden & Integrieren
-Wir glauben an ein freies und sicheres Web. Daher darf jeder diese Listen für eigene Projekte (Browser-Erweiterungen, Werbeblocker, eigene Suchmaschinen oder Firewalls) verwenden.
+Durch die Bereitstellung dieser Listen ermöglichen wir es Entwicklern weltweit, ihre eigenen Anwendungen, Firewalls und Browser-Erweiterungen mit einer verlässlichen Datenquelle zu stärken.
 
-Nutzungsbedingungen
-Die Verwendung ist unter folgenden Bedingungen erlaubt:
+🛠️ Integration & Nutzung
+Unsere Listen sind als einfache Textdateien (.txt) strukturiert – eine Domain pro Zeile. Dies erlaubt eine nahtlose Integration in fast jede Umgebung.
 
-Namensnennung: Bitte gib bei der Nutzung an, dass die Daten von SgobboVista (sgovi-banlists) stammen (mit Link zu diesem Repo).
-
-Beitrag: Wenn du Fehler findest oder neue Bedrohungen entdeckst, hilf uns, indem du ein Issue oder einen Pull Request eröffnest.
-
-API-Integration (Raw Content)
-Du kannst die Listen direkt über die GitHub-Raw-URLs in dein System einbinden. Beispiel für die Malware-Liste:
+Direktzugriff via CDN (Raw)
+Nutze die GitHub-API oder Raw-URLs für den Live-Abgleich:
 https://raw.githubusercontent.com/SgobboVista/sgovi-banlists/main/malware.txt
 
-📂 Kategorien
-Die Listen sind in verschiedene Dateien unterteilt, um eine granulare Filterung zu ermöglichen:
+Datei,Beschreibung,Schutzfaktor
+malware.txt,Bekannte Quellen für Schadsoftware,🔴 Kritisch
+phishing.txt,Betrügerische Login-Seiten & Scams,🔴 Kritisch
+fake-news.txt,Desinformation & Satire (zur Kennzeichnung),🟡 Warnung
+spam.txt,Domänen mit exzessivem Werbemüll,🔵 Info
 
-malware.txt / phishing.txt: Direkte technische Bedrohungen.
+🤝 Community & Mitwirkung
+Sicherheit ist eine Gemeinschaftsaufgabe. Du kannst auf zwei Arten helfen:
 
-fake-news.txt / misinformation.txt: Schutz vor gezielter Desinformation.
+Reporting: Melde unsichere Seiten direkt über unser Portal auf sgobbovista.de.
 
-spam.txt / advertising.txt: Filterung von lästigen Werbenetzwerken.
+Pull Requests: Füge neue Domains direkt hier auf GitHub hinzu. Bitte beachte dabei unsere Richtlinie: Nur verifizierte Domains einreichen.
 
-adult.txt / violence.txt: Jugendschutz-relevante Inhalte.
+⚖️ Lizenz & Copyright
+Dieses Projekt wird von SgobboVista bereitgestellt.
 
-🤝 Helfen & Beitragen
-Du hast eine gefährliche Seite gefunden, die noch nicht auf der Liste steht?
+Die Nutzung der Daten ist für private und kommerzielle Zwecke kostenfrei erlaubt, sofern eine Namensnennung (Attribution) erfolgt.
 
-Erstelle einen Pull Request mit der neuen Domain.
+Erforderlicher Hinweis:
 
-Oder melde sie direkt über unser Portal auf sgobbovista.de.
+Daten bereitgestellt durch SgobboVista (sgovi-banlists).
 
-Jeder Eintrag hilft dabei, das Internet für uns alle ein Stück sicherer zu machen.
-
-⚖️ Lizenz
-© 2026 SgobboVista.
-
-Nutzung mit Namensnennung erlaubt (Attribution Required). Weitere Details findest du in der LICENSE Datei.
+🔍 Über SGOVI
+SGOVI ist mehr als nur eine Liste. Wir betreiben eine unabhängige Suchmaschine, die Privatsphäre und Sicherheit ernst nimmt. Besuche uns auf:
+👉 www.sgobbovista.de
