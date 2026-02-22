@@ -1,0 +1,3 @@
+# SGOVI Ban-List: other.txt
+# Automatisch generiert am 2026-02-22 00:24:56
+# Eine Domain pro Zeile
