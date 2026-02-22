@@ -1,0 +1,3 @@
+# SGOVI Ban-List: child-abuse.txt
+# Automatisch generiert am 2026-02-22 00:24:51
+# Eine Domain pro Zeile
