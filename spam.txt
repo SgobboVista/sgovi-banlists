@@ -1,0 +1,3 @@
+# SGOVI Ban-List: spam.txt
+# Automatisch generiert am 2026-02-22 00:24:42
+# Eine Domain pro Zeile
