@@ -1,3 +1,4 @@
-# SGOVI Ban-List: hate-speech.txt
-# Automatisch generiert am 2026-02-22 00:24:52
+# SGOVI Ban-List: Hassrede/Extremismus
+# Automatisch generiert am 2026-02-22 00:30:28
 # Eine Domain pro Zeile
+
