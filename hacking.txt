@@ -1,0 +1,3 @@
+# SGOVI Ban-List: hacking.txt
+# Automatisch generiert am 2026-02-22 00:24:44
+# Eine Domain pro Zeile
