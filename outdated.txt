@@ -1,0 +1,3 @@
+# SGOVI Ban-List: outdated.txt
+# Automatisch generiert am 2026-02-22 00:24:57
+# Eine Domain pro Zeile
