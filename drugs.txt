@@ -1,0 +1,3 @@
+# SGOVI Ban-List: drugs.txt
+# Automatisch generiert am 2026-02-22 00:24:50
+# Eine Domain pro Zeile
