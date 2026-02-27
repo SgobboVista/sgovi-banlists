@@ -1,6 +1,3 @@
-# SGOVI Ban-List: adult.txt
-# Automatisch generiert am 2026-02-22 00:24:48
-# Eine Domain pro Zeile
 youporn.com
 pornhub.com
 xhamster.com
